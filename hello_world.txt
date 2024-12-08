@@ -1,0 +1,1 @@
+Adding test to Hello World for Git commitment.
